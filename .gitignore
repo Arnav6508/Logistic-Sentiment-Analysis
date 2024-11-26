@@ -1,0 +1,5 @@
+__pycache__
+.env
+freqs.pkl
+theta.pkl
+tempCodeRunnerFile.py
